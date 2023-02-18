@@ -10,5 +10,6 @@ int main(void) {
   cout<<"Checking in again!\n";
   cout<<"PES\n";
   cout<<"once more\n";
+  cout<<"twice\n";
   return 0;
 }
