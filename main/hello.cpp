@@ -11,5 +11,6 @@ int main(void) {
   cout<<"PES\n";
   cout<<"once more\n";
   cout<<"twice\n";
+  cout<<"thrice\n";
   return 0;
 }
